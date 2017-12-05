@@ -125,4 +125,8 @@ Jdi na gitHub a over si ze tam ta vetev pribyla.
 Pro jistotu stranku znova nacti.
 Pak rozklikni dropdown 'Branch: mastr'
 a mel bys tam videt novou vetev.
+Prepni se do nove vetve.
+V pravo nahore by melo byt tlacitko "Pull Request".
+Klikni nan.
+
 
