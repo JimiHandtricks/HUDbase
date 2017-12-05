@@ -128,5 +128,20 @@ a mel bys tam videt novou vetev.
 Prepni se do nove vetve.
 V pravo nahore by melo byt tlacitko "Pull Request".
 Klikni nan.
+Mel by ses objevit na strance 'Open a pull request'.
+Napis tam nejaky popisek toho co jsi dokoncil
+ a klikni na "Create pull request".
+Timto se vytvori "Pull Request". 
+Je dobre si dobre rozmyslet,
+zda doopravdy chces aplikovat zmeny do master vetve.
+Kdyz je pull request otevren,
+ostatni ho muzou videt taky.
+Jsou tam videt zmeny oproti master vetvy atp.
+
+Pokud si jsi jisty ze chces zmeny aplikovat,
+klikni na "Merge Pull Request".
+Pak uz to staci potvrdit a hotovo.
+Zmeny jsou v masteru.
+Ted uz je mozno vymazat nove vytvorenou vetev.
 
 
