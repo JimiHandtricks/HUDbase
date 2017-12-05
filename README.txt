@@ -145,3 +145,11 @@ Zmeny jsou v masteru.
 Ted uz je mozno vymazat nove vytvorenou vetev.
 
 
+Jakmile uz mas jednou repozitar naklonovany (krok 1.)
+pri dalsi praci uz staci opakovat kroky 2-5.
+2. Overit si stav a podle nej reagovat,
+typicky pullnout si nove veci prikazem 'git pull'.
+3. Vytvorit si novou vetev.
+4. Commitni a pushni zmeny.
+5. Vytvor pull request a mergni zmeny do master vetve
++ smaz vetev.
