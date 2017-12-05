@@ -21,7 +21,7 @@ V terminalu by ti ted mel modre svitit napis "(master)",
 coz indikuje to, ze jsi v repozitari na vetvy master.
 
 2. Prace v lokalnim (na tvem komplu) repozitari.
-2a. Over si stav repozitare prikaze 'git status'.
+2a. Over si stav repozitare prikazem 'git status'.
 Pokud vydis toto:
 "On branch master
 Your branch is up-to-date with 'origin/master'.
@@ -54,7 +54,7 @@ Ve vystupu prikazu 'git status' by jsi mel videt,
 ze tam sviti cervene nejake soubory. 
 V tech je prave rozdil oproti remote serveru.
 Prikazy na smazani:
-'git reset --hard' > resetuje zmeny na upravenych souborech
+'git reset --hard' > resetuje zmeny na zmenenych souborech
 'git clean -fd' > smaze nove pridane soubory a slozky
 
 
