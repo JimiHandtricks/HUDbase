@@ -20,6 +20,8 @@ Dostan se do ni prikazem 'cd HUDbase'.
 V terminalu by ti ted mel modre svitit napis "(master)",
 coz indikuje to, ze jsi v repozitari na vetvy master.
 
+2a.Stahni si vertzy z remote > prikaz 'git pull'.
+
 2. Over si stav repozitare prikazem 'git status'.
 Pokud vydis toto:
 "On branch master
@@ -57,7 +59,7 @@ Prikazy na smazani:
 'git clean -fd' > smaze nove pridane soubory a slozky
 
 
-Pokud vydis toto:
+Pokud vidis toto:
 "On branch master
 Your branch is ahead of 'origin/master' by # commit(s).
 ...."
@@ -66,7 +68,7 @@ znamena to, ze nemas pushnute nejake commity.
 Pouzij prikaz 'git push origin #branchName',
 kde #branchName = jmeno aktualni vetve.
 
-Pokud vydis toto:
+Pokud vidis toto:
 "On branch master
 Your branch is behind 'origin/master' by # commit(s), and can be
 fast-forwarded.
